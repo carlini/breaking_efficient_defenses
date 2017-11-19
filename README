@@ -1,0 +1,4 @@
+This code reproduces the paper "Efficient Defenses Against Adversarial
+Attacks", AISec 2017. Along with the code to train the defense is an
+attack that demonstrates adversarial examples are still possible, with
+distortion approximately 30% larger than without the defense.
